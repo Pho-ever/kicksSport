@@ -140,6 +140,7 @@ header h1 {
     font-size: 64px;
     font-weight: 700;
     width: 94%;
+    color: #000;
 }
 
 .phone-1 {
@@ -411,6 +412,7 @@ header h1 {
     margin-top: 30px;
     margin-bottom: 0;
     text-align: left;
+    color: #000;
 }
 
 .sneakers h1:nth-of-type(2) {
@@ -469,7 +471,7 @@ max-width: 270px;
 }
 
 .download-button:hover {
-    box-shadow: 11px 11px 0px -3px rgba(204, 52, 46, 0.73);
+    box-shadow: 11px 11px 0px -3px rgba(78, 96, 55, 0.4);
 }
 
 .trusted {
@@ -688,7 +690,6 @@ footer > div{
     width: 100%;
     justify-content: space-between;
     align-items: center;
-    /* gap: 140px; */
 }
 
 .footer-details a {
