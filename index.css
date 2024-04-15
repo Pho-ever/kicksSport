@@ -71,8 +71,8 @@ a, a:hover {
 }
 
 .nav-button {
-    background-color: #CC342E;; 
-    border: 1px solid #CC342E;; 
+    background-color: #4e6037;; 
+    border: 1px solid #4e6037;; 
     outline: 0; 
     padding: 16px 32px !important; 
     color: #fff !important; 
@@ -83,10 +83,10 @@ a, a:hover {
 }
 
 .nav-button:hover{
-    background-color: #CC342E;;
+    background-color: #4e6037;;
     color: #fff !important;
-    border: 1px solid #CC342E;;
-    box-shadow: 10px 10px 0px -3px rgba(204, 52, 46, 0.72);
+    border: 1px solid #4e6037;;
+    box-shadow: 10px 10px 0px -3px rgba(78, 96, 55, 1);
 }
 
 .home-link {
@@ -393,7 +393,9 @@ header h1 {
 }
 
 .sneakers-2 {
-    background-color: #CC342E;
+    background-color: #4e6037; 
+    padding-bottom: 40px !important;
+    padding-top: 25px;
 }
 
 
@@ -413,7 +415,7 @@ header h1 {
 
 .sneakers h1:nth-of-type(2) {
     margin: 0;
-    color: #CC342E;
+    color: #4e6037;
 }
 
 .sneakers > p{
@@ -452,8 +454,8 @@ max-width: 270px;
 }
 
 .download-button {
-    background-color: #CC342E;
-    border: 1px solid #CC342E;
+    background-color: #4e6037;
+    border: 1px solid #4e6037;
     outline: 0;
     padding: 16px 32px !important;
     color: white !important;
@@ -745,8 +747,8 @@ footer > div{
 
 .mobile-btn {
     display: block;
-    background-color: #CC342E; 
-    border: 1px solid #CC342E; 
+    background-color: #4e6037; 
+    border: 1px solid #4e6037; 
     outline: 0; 
     padding: 16px 32px; 
     color: white; 
@@ -755,6 +757,10 @@ footer > div{
 
 .download-button {
     margin: 32px auto 0;
+}
+
+.sneakers {
+    padding-bottom: 40px;
 }
 
 header {
@@ -922,7 +928,7 @@ footer > div {
     z-index: 999;
     height: 150px;
     background: #fff;
-    box-shadow: -2px 20px 18px -13px rgba(204,52,46,0.75);
+    box-shadow: -2px 20px 18px -13px rgba(78, 96, 55, 1);
     width: 110% !important;
     left: -5%;
 }
