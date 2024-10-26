@@ -3872,10 +3872,12 @@ ul.minicart-pricing-box li:last-child {
 .product-caption {
   position: relative;
   padding-right: 50px;
+  
 }
 .product-name {
   font-weight: 400;
   text-transform: uppercase;
+  height: 40px;
 }
 .product-name a {
   color: #555555;
